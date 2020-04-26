@@ -136,3 +136,32 @@
         com.google.android.media.effects.jar \
         com.google.android.maps.jar \
         com.google.android.dialer.support.jar
+
+####################################     
+#framework-res.apk
+#values* (add some strings)
+#layout (some refer color problems diff)
+#drawable (some icons add)
+####################################     
+      framework-res/res += \
+        values* \ 
+        layout \ 
+        drawable \
+
+####################################
+#framework.jar
+There are some difference about valus and new defines 
+####################################
+
+####################################
+#framework.jar
+There are some difference about valus and new defines （not so detail）
+####################################
+
+####################################
+#boot-framework.vdex
+There are some difference about valus and new defines （not so detail）
+####################################
+Difference: the structure and the number of SmalI texts are the same as the corresponding framework.jar. 
+But many declaration classes of SmalI text (not all) have changed the original private protected type to public type.
+
