@@ -1,0 +1,110 @@
+### The Patchrom Project (Pie)
+    Model: ginkgo
+    Rom: LOS and Experience
+
+### Compare result:
+
+   # Framework: 
+      Same += \
+        am.jar  \
+        android.hidl.base-V1.0-java.jar \
+        android.test.mock.jar \
+        appwidget.jar \
+        audiosphere.jar \
+        boot-android.hidl.base-V1.0-java.vdex \
+        boot-apache-xml.vdex \
+        boot-conscrypt.vdex \
+        boot-framework-oahl-backward-compatibility.vdex \
+        boot-okhttp.vdex \
+        boot-telephony-ext.vdex \
+        boot.vdex \
+        bouncycastle.jar \
+        cneapiclient.jar \
+        com.android.mediadrm.signer.jar \
+        com.android.media.remotedisplay.jar \
+        com.qualcomm.qti.uceservice-V2.0-java.jar \
+        com.quicinc.cne.api-V1.0-java.jar \
+        com.quicinc.cne.constants-V1.0-java.jar \
+        com.quicinc.cne.constants-V2.0-java.jar \
+        com.quicinc.cne.constants-V2.1-java.jar \
+        com.quicinc.cne.server-V2.3-java.jar \
+        core-oj.jar \
+        dpmapi.jar \
+        ethernet-service.jar \
+        ext.jar \
+        hid.jar \
+        ims-common.jar \
+        media_cmd.jar \
+        okhttp.jar \
+        org.apache.http.legacy.boot.jar \
+        org.ifaa.android.manager.jar \
+        qcom.fmradio.jar \
+        qcrilhook.jar \
+        qti-telephony-common.jar \
+        QtiTelephonyServicelibrary.jar \
+        requestsync.jar \
+        tcmclient.jar \
+        telecom.jar \
+        telephony-ext.jar \
+        uiautomator.jar \
+        vendor.qti.data.factory-V1.0-java.jar \
+        vendor.qti.hardware.alarm-V1.0-java.jar \
+        vendor.qti.hardware.data.connection-V1.0-java.jar \
+        vendor.qti.hardware.data.dynamicdds-V1.0-java.jar \
+        vendor.qti.hardware.data.qmi-V1.0-java.jar \
+        vendor.qti.ims.callinfo-V1.0-java.jar \
+        vendor.xiaomi.hardware.displayfeature-V1.0-java.jar \
+        vendor.xiaomi.hardware.mtdservice-V1.0-java.jar \
+        vendor.xiaomi.hardware.mtdservice-V1.1-java.jar \
+        vr.jar \
+        WfdCommon.jar \
+        wifi-service.jar.prof \
+        android.hidl.manager-V1.0-java.jar \
+        android.test.base.jar \
+        android.test.runner.jar \
+        boot-core-libart.vdex \
+        boot-org.ifaa.android.manager.vdex \
+        boot-WfdCommon.vdex \
+        com.android.future.usb.accessory.jar \
+        com.android.location.provider.jar \
+        com.dsi.ant.antradio_library.jar
+        com.qti.location.sdk.jar
+        com.qualcomm.qti.imscmservice-V2.0-java.jar
+        com.qualcomm.qti.imscmservice-V2.1-java.jar
+        com.quicinc.cne.api-V1.1-java.jar
+        com.quicinc.cne.server-V2.0-java.jar
+        com.quicinc.cne.server-V2.1-java.jar
+        conscrypt.jar
+        content.jar
+        core-libart.jar
+        embmslibrary.jar
+        izat.xt.srv.jar
+        javax.obex.jar
+        org.apache.http.legacy.boot.jar.prof
+        sm.jar
+        vendor.qti.data.factory-V1.1-java.jar
+        vendor.qti.hardware.data.latency-V1.0-java.jar
+        vendor.qti.hardware.soter-V1.0-java.jar
+        vendor.xiaomi.hardware.misys-V2.0-java.jar
+        vendor.xiaomi.hardware.vsimapp-V1.0-java.jar
+        voip-common.jar
+        boot-android.hidl.manager-V1.0-java.vdex
+        boot-android.test.base.vdex
+        boot-bouncycastle.vdex
+        bu.jar
+        com.qti.dpmframework.jar
+        com.quicinc.cne.jar
+        com.quicinc.cne.server-V1.0-java.jar
+        input.jar
+        locksettings.jar
+        monkey.jar
+        svc.jar
+        vendor.qti.ims.rcsconfig-V1.0-java.jar
+        apache-xml.jar
+        bmgr.jar
+        boot-ext.vdex
+        com.quicinc.cne.server-V2.2-java.jar
+        dpm.jar
+        framework-oahl-backward-compatibility.jar
+        vendor.qti.latency-V2.0-java.jar
+        vendor.xiaomi.hardware.misys-V1.0-java.jar
